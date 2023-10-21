@@ -12,10 +12,10 @@
 - Javascript
 
 ## Some things I like to do
-- Low level programming
+- Teaching mathematics including statistics :)
 - Front-end development of distributed systems that scale.
-- Casual Full stack development
-- Designning and Editing.
+- Data Analysis and Analytics
+- Designning and Editing Videos and Photos.
 - DSA Problems, I am an active participant in Codechef and LeetCode.
 - Deep Learning, I love to explore the inner working of different type of neural networks and models.
 
