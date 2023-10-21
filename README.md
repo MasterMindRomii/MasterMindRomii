@@ -7,6 +7,7 @@
 ## Some languages I'm familiar with
 - C
 - C++
+- Sql
 - Java
 - Python
 - Javascript
