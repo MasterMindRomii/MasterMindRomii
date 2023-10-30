@@ -8,9 +8,8 @@
 - C
 - C++
 - Sql
-- Java
 - Python
-- Javascript
+- Javascript(Basic)
 
 ## Some things I like to do
 - Teaching mathematics including statistics :)
