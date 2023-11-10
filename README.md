@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Romi+Gupta)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Romi+Gupta)](https://git.io/typing-svg)
 </h1>
 <h3 align="center">I'm a Machine Learning Student right now.</h3>
 
