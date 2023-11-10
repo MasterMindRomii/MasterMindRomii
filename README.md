@@ -1,62 +1,72 @@
-<!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm [Your Name]!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Romi+Gupta !;" />
 </h1>
+<h3 align="center">I'm a Machine Learning Student right now.</h3>
 
-<!-- Introduction -->
-<h3 align="center">Machine Learning Enthusiast | Data Science Enthusiast</h3>
+- 🔭 I’m currently working on **Power BI**
+- 👯 I’m looking to collaborate on **Python libraries, conducting rigorous data analysis, and developing data-driven models.**
+- 🌱 I’m currently learning **Data Science**
+- 💬 Ask me about **Python Programming**
+- 📫 How to reach me **romigupta1875@gmail.com**
+- 👨‍💻 All of my projects are available at **https://mastermindromii.github.io/RomiGupta/**
+- 📝 I regularly write articles on **https://www.linkedin.com/in/romi-gupta-a93238257/**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1N0crkWLnjlM-ltAh7eEkBX_W78StnIKS/view**
 
-<!-- Badges -->
-<div align="center">
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+<div> 
+  <a href="https://www.linkedin.com/in/romi-gupta-a93238257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  
-  <!-- GitHub Badge -->
-  <a href="https://github.com/your-github-profile/" target="_blank">
+  <a href="https://github.com/MasterMindRomii" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-  
-  <!-- Gmail Badge -->
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:romigupta1875@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
-<!-- Skills and Interests -->
-<h3 align="center">Skills and Interests</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Machine%20Learning-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Data Science">
-  <!-- Add more badges as needed -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/romi-gupta-a93238257/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/romi-gupta-a93238257/" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCRwnEpBctkLafV2knU62r2A" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://www.youtube.com/channel/UCRwnEpBctkLafV2knU62r2A" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/RomiGuptaCS/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="https://leetcode.com/RomiGuptaCS/" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/romiigupta" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="https://www.kaggle.com/romiigupta" height="30" width="40" />
+  </a>
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-profile&show_icons=true&theme=radical" alt="GitHub Stats">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
 </p>
 
-<!-- Most Used Languages -->
-<h3 align="center">Most Used Languages</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-profile&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterMindRomii&layout=compact&theme=" alt="MasterMindRomii" />
 
-<!-- Contribution Graph -->
-<h3 align="center">Contribution Graph</h3>
-<p align="center">
-  <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=your-github-profile&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF">
-</p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MasterMindRomii&show_icons=true&locale=en&theme=" alt="MasterMindRomii" /></p>
 
-<!-- Visitor Counter -->
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MasterMindRomii&theme=" alt="MasterMindRomii" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
 <div align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=your-github-profile" alt="Visitor Counter">
+  <a href="https://github.com/MasterMindRomii">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MasterMindRomii&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MasterMindRomii&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MasterMindRomii&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MasterMindRomii&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasterMindRomii&theme=2077" height="180em" />
+  </a>
 </div>
-
-<!-- Footer -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+on+LinkedIn!;I'm+always+open+to+collaborate+:)">
-</h3>
