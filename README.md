@@ -1,6 +1,6 @@
-<h1 align="center"> Hey There! Romi Gupta
+<h1> Hey There! Romi Gupta
 </h1>
-<h3 align="center">I'm a Machine Learning Student right now.</h3>
+<h3>I'm a Machine Learning Student right now.</h3>
 
 - 🔭 I’m currently working on **Power BI**
 - 👯 I’m looking to collaborate on **Python libraries, conducting rigorous data analysis, and developing data-driven models.**
