@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Python libraries, conducting rigorous data analysis, and developing data-driven models.**
 - 💬 Ask me about **Python Programming, SQL, Power BI and Excel**
 - 📫 How to reach me **romigupta1875@gmail.com**
-- 👨‍💻 All of my projects are available at **https://mastermindromii.github.io/RomiGupta/**
+- 👨‍💻 All of my projects are available at **[https://mastermindromii.github.io/RomiGupta/](https://romigupta.netlify.app/)**
 - 📝 I regularly write articles on **https://www.linkedin.com/in/romi-gupta-a93238257/**
 
 <div>
