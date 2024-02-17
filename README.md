@@ -1,8 +1,8 @@
 <h1> Hey There! Romi Gupta
 </h1>
-<h3>I'm a Data Analyst Student right now.</h3>
+<h3>I'm a Data Analyst Student.</h3>
 
-- 🔭 I’m currently working on **Power BI**
+- 🔭 I’m currently working on **Advance SQL**
 - 👯 I’m looking to collaborate on **Python libraries, conducting rigorous data analysis, and developing data-driven models.**
 - 💬 Ask me about **Python Programming, SQL, Power BI and Excel**
 - 📫 How to reach me **romigupta1875@gmail.com**
