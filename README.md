@@ -38,18 +38,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="font-size: 18px;">
-    <span style="margin-right: 10px; background-color: #007bff; color: #ffffff; padding: 5px; border-radius: 5px;">Python</span>
-    <span style="margin-right: 10px; background-color: #f0ad4e; color: #ffffff; padding: 5px; border-radius: 5px;">C++</span>
-    <span style="margin-right: 10px; background-color: #28a745; color: #ffffff; padding: 5px; border-radius: 5px;">Power BI</span>
-    <span style="margin-right: 10px; background-color: #dc3545; color: #ffffff; padding: 5px; border-radius: 5px;">SQL</span>
-    <span style="margin-right: 10px; background-color: #6610f2; color: #ffffff; padding: 5px; border-radius: 5px;">Tableau</span>
-    <span style="margin-right: 10px; background-color: #17a2b8; color: #ffffff; padding: 5px; border-radius: 5px;">Excel</span>
-    <span style="margin-right: 10px; background-color: #343a40; color: #ffffff; padding: 5px; border-radius: 5px;">Git</span>
-    <span style="margin-right: 10px; background-color: #ffc107; color: #ffffff; padding: 5px; border-radius: 5px;">NumPy</span>
-    <span style="margin-right: 10px; background-color: #28a745; color: #ffffff; padding: 5px; border-radius: 5px;">Pandas</span>
-    <span style="margin-right: 10px; background-color: #6610f2; color: #ffffff; padding: 5px; border-radius: 5px;">Matplotlib</span>
-    <span style="margin-right: 10px; background-color: #17a2b8; color: #ffffff; padding: 5px; border-radius: 5px;">Seaborn</span>
+<p align="left" style="font-size: 18px; font-weight: bold;">
+    <span style="color: #007bff;">Python</span>,
+    <span style="color: #f0ad4e;">C++</span>,
+    <span style="color: #28a745;">Power BI</span>,
+    <span style="color: #dc3545;">SQL</span>,
+    <span style="color: #6610f2;">Tableau</span>,
+    <span style="color: #17a2b8;">Excel</span>,
+    <span style="color: #343a40;">Git</span>,
+    <span style="color: #ffc107;">NumPy</span>,
+    <span style="color: #28a745;">Pandas</span>,
+    <span style="color: #6610f2;">Matplotlib</span>,
+    <span style="color: #17a2b8;">Seaborn</span>
 </p>
 
 
