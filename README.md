@@ -38,19 +38,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="font-size: 18px; font-weight: bold;">
-    <span style="color: #007bff;">Python</span>,
-    <span style="color: #f0ad4e;">C++</span>,
-    <span style="color: #28a745;">Power BI</span>,
-    <span style="color: #dc3545;">SQL</span>,
-    <span style="color: #6610f2;">Tableau</span>,
-    <span style="color: #17a2b8;">Excel</span>,
-    <span style="color: #343a40;">Git</span>,
-    <span style="color: #ffc107;">NumPy</span>,
-    <span style="color: #28a745;">Pandas</span>,
-    <span style="color: #6610f2;">Matplotlib</span>,
-    <span style="color: #17a2b8;">Seaborn</span>
+<p align="left" style="font-size: 18px;">
+    <span style="font-weight: bold; color: #007bff;">Python</span>,
+     <span style="font-weight: bold; color: #dc3545;">SQL</span>,
+     <span style="font-weight: bold; color: #28a745;">Pandas</span>,
+    <span style="font-weight: bold; color: #28a745;">Power BI</span>,
+    <span style="font-weight: bold; color: #6610f2;">Tableau</span>,
+    <span style="font-weight: bold; color: #17a2b8;">Excel</span>,
+    <span style="font-weight: bold; color: #f0ad4e;">C++</span>,
+    <span style="font-weight: bold; color: #343a40;">Git</span>,
+    <span style="font-weight: bold; color: #ffc107;">NumPy</span>,
+    <span style="font-weight: bold; color: #6610f2;">Matplotlib</span>,
+    <span style="font-weight: bold; color: #17a2b8;">Seaborn</span>
 </p>
+
 
 
 
