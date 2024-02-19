@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at **[https://mastermindromii.github.io/RomiGupta/](https://romigupta.netlify.app/)**
 - 📝 I weekly write articles on **[https://www.linkedin.com/in/romi-gupta-a93238257/](https://www.linkedin.com/in/romi-gupta-a93238257/)**
 - 🛠️ Tech Stack: **Python**, **SQL**, **Pandas**, **Power BI**, **Tableau**, **Excel**, **C++**, **Git**, **NumPy**, **Matplotlib**, **Seaborn**
+- ![Uploading ItsASignOfImprovementTomCronenwettGIF (2).gif…]()
 
 
 <div>
