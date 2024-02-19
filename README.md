@@ -2,12 +2,12 @@
 </h1>
 <h3>I'm a Data Analyst Student.</h3>
 
-- 🔭 I’m currently working on **Advance SQL**
-- 👯 I’m looking to collaborate on **Python libraries, conducting rigorous data analysis, and developing data-driven models.**
+- 🔭 I’m currently working on **Advance SQL and Pandas**
+- 👯 I’m looking to collaborate on **Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with SQL**
 - 💬 Ask me about **Python Programming, SQL, Power BI, and Excel**
 - 📫 How to reach me **romigupta1875@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://mastermindromii.github.io/RomiGupta/](https://romigupta.netlify.app/)**
-- 📝 I regularly write articles on **[https://www.linkedin.com/in/romi-gupta-a93238257/](https://www.linkedin.com/in/romi-gupta-a93238257/)**
+- 📝 I weekly write articles on **[https://www.linkedin.com/in/romi-gupta-a93238257/](https://www.linkedin.com/in/romi-gupta-a93238257/)**
 - 🛠️ Tech Stack: **Python**, **SQL**, **Pandas**, **Power BI**, **Tableau**, **Excel**, **C++**, **Git**, **NumPy**, **Matplotlib**, **Seaborn**
 
 
