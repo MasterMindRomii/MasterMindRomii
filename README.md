@@ -27,23 +27,6 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/romi-gupta-a93238257/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/romi-gupta-a93238257/" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCRwnEpBctkLafV2knU62r2A" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://www.youtube.com/channel/UCRwnEpBctkLafV2knU62r2A" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/RomiGuptaCS/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="https://leetcode.com/RomiGuptaCS/" height="30" width="40" />
-</a>
-<a href="https://www.kaggle.com/romiigupta" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="https://www.kaggle.com/romiigupta" height="30" width="40" />
-</a>
-</p>
-
-
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterMindRomii&layout=compact&theme=" alt="MasterMindRomii" />
 
