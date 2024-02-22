@@ -25,10 +25,10 @@
     <a href="https://leetcode.com/RomiGuptaCS/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/romi35532" target="_blank">
+    <a href="https://www.hackerrank.com/profile/romi35532" target="_blank">
         <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.kaggle.com/https://www.kaggle.com/romiigupta" target="_blank">
+    <a href="https://www.kaggle.com/romiigupta" target="_blank">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank">
     </a>
 </div>
