@@ -13,6 +13,9 @@
 
 
 <div>
+    <a href="https://platform.stratascratch.com/user/MasterMindRomi" target="_blank">
+        <img src="https://img.shields.io/badge/StrataScratch-1abc9c?style=for-the-badge" target="_blank">
+    </a>
     <a href="https://www.linkedin.com/in/romi-gupta-a93238257/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
@@ -32,6 +35,7 @@
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank">
     </a>
 </div>
+
 
 
 <h3 align="left">Stars</h3>
