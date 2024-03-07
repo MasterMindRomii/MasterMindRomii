@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with SQL**
 - 💬 Ask me about **Python Programming, SQL, Power BI, and Excel**
 - 📫 How to reach me **romigupta1875@gmail.com**
-- 👨‍💻 All of my projects are available at **[https://mastermindromii.github.io/RomiGupta/](https://romilive.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[Click on ir=t :)](https://romilive.netlify.app/)**
 - 📝 I weekly write articles on **[https://www.linkedin.com/in/romi-gupta-a93238257/](https://www.linkedin.com/in/romi-gupta-a93238257/)**
 - 🛠️ Tech Stack: **Python**, **SQL**, **Pandas**, **Power BI**, **Tableau**, **Excel**, **C++**, **Git**, **NumPy**, **Matplotlib**, **Seaborn**
 - 🔎 **See my continious learning and improvement below**
