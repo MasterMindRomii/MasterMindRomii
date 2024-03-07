@@ -2,7 +2,7 @@
 </h1>
 <h3>I'm a Data Analyst Student.</h3>
 
-- 🔭 I’m currently working on **Advance SQL and Pandas**
+- 🔭 I’m currently working on **Advance SQL and Power BI**
 - 👯 I’m looking to collaborate on **Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with SQL**
 - 💬 Ask me about **Python Programming, SQL, Power BI, and Excel**
 - 📫 How to reach me **romigupta1875@gmail.com**
