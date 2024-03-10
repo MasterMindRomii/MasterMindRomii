@@ -8,7 +8,7 @@
 - 📫 How to reach me **romigupta1875@gmail.com**
 - 👨‍💻 All of my recent projects are available at **[Click on it :)](https://romilive.netlify.app/)**
 - 📝 I daily write articles on **[https://www.linkedin.com/in/romi-gupta-a93238257/](https://www.linkedin.com/in/romi-gupta-a93238257/)**
-- 🛠️ Tech Stack: **Python**, **SQL**, **Pandas**, **Power BI**, **Tableau**, **Excel**, **C++**, **Git**, **NumPy**, **Matplotlib**, **Seaborn**
+- 🛠️ Tech Stack: **Python**, **SQL**, **Pandas**, **Power BI**, **Excel**, **Git**, **NumPy** and **Basic of** **Matplotlib**, **Seaborn**, **Scikit-Learn**
 - 🔎 **See my continious learning and improvement below**
 
 
