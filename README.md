@@ -3,7 +3,7 @@
 <h3>I'm a Data Science & Analytic Student.</h3>
 
 - 🔭 I’m currently working on **Advance SQL and Power BI**
-- 👯 I’m looking to collaborate on **Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with SQL**
+- 👯 I’m looking to collaborate on **Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with MySQL**
 - 💬 Ask me about **Python Programming, SQL, Power BI, and Excel**
 - 📫 How to reach me **romigupta1875@gmail.com**
 - 👨‍💻 All of my recent projects are available at **[Click on it :)](https://romilive.netlify.app/)**
