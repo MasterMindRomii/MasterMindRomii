@@ -1,6 +1,6 @@
 <h1> Hey There! Romi Gupta
 </h1>
-<h3>I'm a Data Analyst Student.</h3>
+<h3>I'm a Data Science & Analytic Student.</h3>
 
 - 🔭 I’m currently working on **Advance SQL and Power BI**
 - 👯 I’m looking to collaborate on **Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with SQL**
