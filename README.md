@@ -2,13 +2,13 @@
 </h1>
 <h3>I'm a Data Science & Analytic Student.</h3>
 
-- 🔭 I’m currently working on **Advance SQL and Power BI**
-- 👯 I’m looking to collaborate on **Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with MySQL**
-- 💬 Ask me about **Python Programming, SQL, Power BI, and Excel**
+- 🔭 I’m currently working in **Indian Sugar and Bio-Energy Manufacturer Association(ISMA)** as a **Statistics & Data Management intern**
+- 👯 I’m eager to collaborate on **Analysis using Excel, Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with MySQL**
+- 💬 Ask me about **Excel, SQL, Power BI and Python Programming**
 - 📫 How to reach me **romigupta1875@gmail.com**
 - 👨‍💻 All of my recent projects are available at **[Click on it :)](https://romilive.netlify.app/)**
 - 📝 I daily write articles on **[https://www.linkedin.com/in/romi-gupta-a93238257/](https://www.linkedin.com/in/romi-gupta-a93238257/)**
-- 🛠️ Tech Stack: **Python**, **SQL**, **Pandas**, **Power BI**, **Excel**, **Git**, **NumPy** and **Basic of** **Matplotlib**, **Seaborn**, **Scikit-Learn**
+- 🛠️ Tech Stack: **Excel**, **SQL**, **Python**, **Pandas**, **Power BI**, **Git**, **NumPy** and **Basic of** **Matplotlib**, **Seaborn**, **Scikit-Learn**
 - 🔎 **See my continious learning and improvement below**
 
 
