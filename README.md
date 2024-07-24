@@ -3,7 +3,7 @@
 <h3>I'm a Data Science & Analytic Student.</h3>
 
 - 🔭 I’m currently working in **Indian Sugar and Bio-Energy Manufacturer Association(ISMA)** as a **Statistics & Data Management intern**
-- 👯 I’m eager to collab on **Analysis using Excel, Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with MySQL**
+- 👯 I’m eager to collab on **Analysis using Excel, Power BI Visualization, Data Cleaning using Pandas and Database interaction with MySQL**
 - 💬 Ask me about **Excel, SQL, Power BI and Python Programming**
 - 📫 How to reach me **romigupta1875@gmail.com**
 - 👨‍💻 All of my recent projects are available at **[Click on it :)](https://romilive.netlify.app/)**
