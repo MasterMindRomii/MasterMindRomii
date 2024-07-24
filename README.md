@@ -1,6 +1,6 @@
 <h1> Hey There! Romi Gupta
 </h1>
-<h3>I'm a Data Science & Analytic Student.</h3>
+<h3>I'm a Data Science & Analytic 3rd Year Student at MSI,Jankapuri.</h3>
 
 - 🔭 I’m currently working in **Indian Sugar and Bio-Energy Manufacturer Association(ISMA)** as a **Statistics & Data Management intern**
 - 👯 I’m eager to collab on **Analysis using Excel, Power BI Visualization, Database interaction with MySQL and Python for Automation**
