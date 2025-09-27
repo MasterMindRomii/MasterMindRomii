@@ -2,12 +2,12 @@
 </h1>
 <h3>I'm a Data Science & Analytic Graduate From MSI,Jankapuri.</h3>
 
-- 🔭 I’m currently looking for full-time job in Data Analytics & Engineer after completing my internship at **(ISMA)** as a **Statistical Analyst**
-- 👯 I’m eager to collab on **Analysis using Excel, Power BI Visualization, Database interaction with MySQL and Python for Automation**
-- 💬 Ask me about **Excel, SQL, Power BI and Python Programming**
+- 🔭 I’m currently seeking full-time job in Data Analytics & Engineer, previously internship at **(ISMA)** as a **Analyst**
+- 👯 I’m eager to collab on **Analysis using Excel, Power BI for Visualization, Database interaction with MySQL and Python for Automation**
+- 💬 Ask me about **Excel, SQL, Power BI, Python & Data Engineering Basic**
 - 📫 How to reach me **romigupta1875@gmail.com**
 - 👨‍💻 All of my recent projects are available at **[Portfolio](https://romidev.netlify.app/)**
-- 📝 I daily write articles on **[Linkedin](https://www.linkedin.com/in/heyyromii/)**
+- 📝 I frequently write articles on **[Linkedin](https://www.linkedin.com/in/heyyromii/)**
 - 🛠️ Tech Stack: **Excel**, **SQL**, **Python**, **Pandas**, **Power BI**, **Git**, **NumPy** and **Basic of** **Matplotlib**, **Seaborn**, **Scikit-Learn**
 - 🔎 **See my continious learning and improvement below**
 
