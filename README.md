@@ -2,7 +2,7 @@
 </h1>
 <h3>I'm a Data Science & Analytic Graduate From MSI,Jankapuri.</h3>
 
-- 🔭 I’m currently looking for full-time job in Data Engineer after completing my internship at **(ISMA)** as a **Statistical Analyst**
+- 🔭 I’m currently looking for full-time job in Data Analytics & Engineer after completing my internship at **(ISMA)** as a **Statistical Analyst**
 - 👯 I’m eager to collab on **Analysis using Excel, Power BI Visualization, Database interaction with MySQL and Python for Automation**
 - 💬 Ask me about **Excel, SQL, Power BI and Python Programming**
 - 📫 How to reach me **romigupta1875@gmail.com**
