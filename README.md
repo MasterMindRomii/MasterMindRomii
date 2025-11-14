@@ -2,7 +2,6 @@
 </h1>
 <h3>I'm a Data Science & Analytics Graduated From Maharaja Surajmal Institute,Jankapuri.</h3>
 
-- 🔭 I’m currently seeking full-time job in Data Analytics & Engineer, previously internship at **(ISMA)** as a **Analyst**
 - 👯 I’m eager to collab on **Analysis using Excel, Power BI for Visualization, Database interaction with MySQL and Python for Automation**
 - 💬 Ask me about **Excel, SQL, Power BI, Python & Data Engineering Basic**
 - 📫 How to reach me **romigupta1875@gmail.com**
