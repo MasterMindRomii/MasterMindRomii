@@ -4,7 +4,7 @@
 
 - 👯 I’m eager to collab on **Analysis using Excel, Power BI for Visualization, Database interaction with MySQL and Python for Automation**
 - 💬 Ask me about **Excel, SQL, Power BI, Python & Data Engineering Basic**
-- 📫 How to reach me **romigupta1875@gmail.com**
+- 📫 How to reach me **romiguptacs@gmail.com**
 - 👨‍💻 All of my recent projects are available at **[Portfolio](https://romidev.netlify.app/)**
 - 📝 I frequently write articles on **[Linkedin](https://www.linkedin.com/in/heyyromii/)**
 - 🛠️ Tech Stack: **Excel**, **SQL**, **Python**, **Pandas**, **Power BI**, **Git**, **NumPy** and **Basic of** **Matplotlib**, **Seaborn**, **Scikit-Learn**
