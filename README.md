@@ -1,14 +1,15 @@
-<h1> Hey There! Romi Gupta
-</h1>
-<h3>I'm a Data Science & Analytics Graduated From Maharaja Surajmal Institute,Jankapuri.</h3>
+<h1>Hey There! I'm Romi Gupta 👋</h1>
+<h3>Ad Operations Associate @ VDO.AI (Z1 Tech) | Data Science & Analytics</h3>
 
-- 💬 Ask me about **Excel, SQL, Power BI, Python & Data Engineering Basic**
-- 📫 How to reach me **romiguptacs@gmail.com**
-- 👨‍💻 All of my recent projects are available at **[Portfolio](https://romidev.netlify.app/)**
-- 📝 I frequently write articles on **[Linkedin](https://www.linkedin.com/in/heyyromii/)**
-- 🛠️ Tech Stack: **Excel**, **SQL**, **Python**, **Pandas**, **Power BI**, **Git**, **NumPy** and **Basic of** **Matplotlib**, **Seaborn**, **Scikit-Learn**
-- 🔎 **See my continious learning and improvement below**
-
+- 🚀 Currently working as an **Associate – Ad Operations at VDO.AI (Z1 Tech)**, driving programmatic yield, price floor optimization, and demand partner management
+- 🎓 Pursuing **MCA in Data Science & Analytics** at IGNOU (2025–2027); BCA graduate from Maharaja Surajmal Institute, Janakpuri (CGPA 9.0/10)
+- 💬 Ask me about **Ad Tech (GAM360, Prebid, VAST, oRTB, DV360), Python, SQL, Power BI, Excel & Data Engineering basics**
+- 🛠️ Built and deployed production tools at VDO.AI — a **Dynamic Price Floor Optimization** engine (~40% lift in incremental revenue) and an **Automated ads.txt Crawler & Validator** (~70% faster compliance checks)
+- 🏆 **WOW Performer of the Month** x3 (Feb '26, May '26, Jul '26) at VDO.AI (Z1 Tech)
+- 📫 Reach me at **romiguptacs@gmail.com**
+- 👨‍💻 All my projects: **[Portfolio](https://romidev.netlify.app/)**
+- 📝 I write on **[LinkedIn](https://www.linkedin.com/in/heyyromii/)**
+- 🔎 See my continuous learning and progress below
 
 <div>
     <a href="https://platform.stratascratch.com/user/MasterMindRomi" target="_blank">
@@ -31,7 +32,16 @@
     </a>
 </div>
 
+<h3 align="left">Tech Stack</h3>
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Snowflake](https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=snowflake)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterMindRomii&layout=compact&theme=" alt="MasterMindRomii" />
