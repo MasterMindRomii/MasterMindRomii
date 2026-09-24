@@ -1,6 +1,7 @@
 <h1> Hey There! Romi Gupta
 </h1>
 <h3>I'm a Data Science & Analytics Graduated From Maharaja Surajmal Institute,Jankapuri.</h3>
+
 - 💬 Ask me about **Excel, SQL, Power BI, Python & Data Engineering Basic**
 - 📫 How to reach me **romiguptacs@gmail.com**
 - 👨‍💻 All of my recent projects are available at **[Portfolio](https://romidev.netlify.app/)**
